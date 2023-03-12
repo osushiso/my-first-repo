@@ -1,1 +1,1 @@
-# my-fist-repo
+# my-frist-repo
